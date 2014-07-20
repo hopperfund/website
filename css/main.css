@@ -1,0 +1,26 @@
+body {
+  padding-top: 1em;
+}
+
+hr {
+  border-top: 3px dashed #407400;
+}
+
+.logo-image {
+  max-width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.lead {
+  font-weight: 200;
+  font-size: 1.5em;
+}
